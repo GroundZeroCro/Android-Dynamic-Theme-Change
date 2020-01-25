@@ -6,4 +6,4 @@
 Demo of a dynamic activity theme change with slide animation.
 
 ## Preview
-[![](https://i.imgur.com/QuPffhq.png)](https://streamable.com/i26nx)
+[![](https://i.imgur.com/LbT56qb.png)](https://streamable.com/i26nx)
