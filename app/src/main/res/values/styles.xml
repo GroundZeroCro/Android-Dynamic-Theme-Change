@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppThemeCasual" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryCasual</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkCasual</item>
+        <item name="colorAccent">@color/colorAccentCasual</item>
+        <item name="android:windowBackground">@color/colorBackgroundCasual</item>
+    </style>
+
+    <style name="AppThemeDark" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkDark</item>
+        <item name="colorAccent">@color/colorAccentDark</item>
+        <item name="android:windowBackground">@color/colorBackgroundDark</item>
+    </style>
+</resources>

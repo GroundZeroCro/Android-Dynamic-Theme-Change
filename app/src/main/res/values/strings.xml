@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Theme Change</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
